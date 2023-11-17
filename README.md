@@ -10,10 +10,14 @@ npm install
 npm run serve
 ```
 
-### Para iniciar o servidor apos alterações feita no server.js
+### Atualize os informações do banco de dados no arquivo server.js
+```
+```
+
+
+### Para iniciar o servidor 
 ```
 node server.js
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
