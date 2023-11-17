@@ -1,18 +1,18 @@
 # appcinema
 
-## Project setup
+## Instale as Dependencias 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para executar a aplicação
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para iniciar o servidor apos alterações feita no server.js
 ```
-npm run build
+node server.js
 ```
 
 ### Customize configuration
